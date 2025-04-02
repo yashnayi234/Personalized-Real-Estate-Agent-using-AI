@@ -1,7 +1,3 @@
-Here’s a `README.md` file for your **Personalized Real Estate Agent** project, based on your uploaded Jupyter notebook and dataset:
-
----
-
 # 🏡 HomeMatch: Personalized Real Estate Agent using AI
 
 **HomeMatch** is an AI-powered real estate recommendation system that helps users find homes tailored to their preferences. It leverages natural language processing (NLP), vector similarity search, and LLMs to enable conversational search over property listings.
